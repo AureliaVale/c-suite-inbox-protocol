@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aureliavale.github.io/c-suite-inbox-protocol/sitemap.xml
