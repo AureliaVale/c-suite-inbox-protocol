@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>AV Edu Resources</title>
+  <link>https://aureliavale.github.io/c-suite-inbox-protocol/</link>
+  <description>Executive productivity guides, email delegation systems, and C-suite operational tools.</description>
+  
+  <item>
+    <title>The C-Suite Inbox Protocol | Executive Email System</title>
+    <link>https://aureliavale.github.io/c-suite-inbox-protocol/</link>
+    <description>Turnkey inbox delegation system for CEOs, EAs, and Chiefs of Staff. Features a 4-folder framework, SOPs, and decision matrices.</description>
+    <guid>https://aureliavale.github.io/c-suite-inbox-protocol/#pin1</guid>
+    <media:content url="https://aureliavale.github.io/c-suite-inbox-protocol/cover.png" medium="image" />
+  </item>
+</channel>
+</rss>
